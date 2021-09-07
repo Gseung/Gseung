@@ -3,6 +3,13 @@
 I am a student at Dankook University. My major is Electronic Electrical Engineering.  
 I’m currently learning artificial intelligence.  
 
+🔭 I’m currently working on
+- Dankook University Student (Feb 2015 ~ Present)
+
+🌱 I’m currently learning
+- C, C++, Python
+- Computer Vision
+
 ### Interest
 - __Computer Vision__
 - __Object Detection__
@@ -13,7 +20,7 @@ I’m currently learning artificial intelligence.
 ### My Github
 
 
-Last Edited on: 2021/09/02
+Last Edited on: 2021/09/07
 
 <!--
 **Gseung/Gseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
